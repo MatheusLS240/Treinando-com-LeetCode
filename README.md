@@ -1,18 +1,32 @@
-## Getting Started
+# LeetCode Training Repository
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este repositório foi criado com o objetivo de documentar minha jornada de aprendizado e prática com os exercícios da plataforma [LeetCode](https://leetcode.com/).
 
-## Folder Structure
+## 🚀 Propósito
 
-The workspace contains two folders by default, where:
+- Aprimorar minha lógica de programação e resolução de problemas.
+- Praticar estruturas de dados e algoritmos.
+- Acompanhar meu progresso e evolução ao longo do tempo.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## 🧠 Conteúdo
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+O repositório será organizado por:
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+- 🟦 Nível do exercício (Fácil, Médio, Difícil)
+- 💬 Comentários explicando a lógica aplicada
+- 🧪 Casos de teste utilizados
+- 📈 Melhorias e otimizações aplicadas (quando houver)
 
-## Dependency Management
+## 🛠️ Tecnologias
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+- Linguagem principal: **Java**
+- Plataforma: **LeetCode**
+
+## 📌 Observações
+
+Este repositório é focado **no aprendizado prático**, e serve como histórico pessoal de desenvolvimento. Sugestões e feedbacks são sempre bem-vindos!
+
+---
+
+**"Treinar todos os dias, mesmo que seja um pouco, já me coloca à frente de quem só pensa em começar."**
+

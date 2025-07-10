@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-class Solution {
+class TwoSum {
     public static void main(String[] args) {
         int[] nums = {2,7,11,15,6,45,23,6,1,0,0,0,2,6,8,2,100,100};
         int target = 200;        
