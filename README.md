@@ -28,5 +28,5 @@ Este repositório é focado **no aprendizado prático**, e serve como histórico
 
 ---
 
-**"Treinar todos os dias, mesmo que seja um pouco, já me coloca à frente de quem só pensa em começar."**
+**"Treinar todas as semanas, mesmo que seja um pouco, já me coloca à frente de quem só pensa em começar."**
 
